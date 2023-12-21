@@ -17,7 +17,8 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="demo.png">
+  <img alt="screenshot" src="demo1.png">
+  <img alt="screenshot" src="demo2.png">
 </p>
 
 ---
