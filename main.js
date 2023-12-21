@@ -61,7 +61,7 @@ function resetPage() {
     // Reload the page
     location.reload();
 }
-
+        let beat = new Audio('/effect.mp3');
         var contInput = document.getElementById('continput');
         var gInput = document.getElementById('input-group');
         var input = document.getElementById('searchtext');
@@ -75,6 +75,7 @@ function resetPage() {
         input.addEventListener('focus', function () {
             document.getElementById('dhek').style.display = 'none';
             document.getElementById('quote').style.display = 'none';
+            beat.play();
             document.getElementById('continput').style.marginTop = '0px';
             for (var i = 0; i < element.length; i++) {
                 element[i].classList.add('focus' + i);
