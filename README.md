@@ -1,5 +1,5 @@
 <h1 align="center">ThalaForAReason</h1>
-<h3 align="center">One guy told me poor person cant but ThalaForAReason Book Which Is True But I Can Code So I Made Using HTML CSS & JS</h3>
+<h3 align="center">This Is Tribute To Thala As All The Things Happens For A Reason And You Know The Reason THALA. So This WebApp Will Calculate And Will Help You Do Thala For A Reason🗿</h3>
 
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/ThalaForAReason)
